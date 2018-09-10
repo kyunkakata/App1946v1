@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { Text, View,Dimensions,ScrollView,ImageBackground,Image,TouchableOpacity,StyleSheet,TextInput} from 'react-native'
 import FastImage from 'react-native-fast-image'
-
+import codePush from "react-native-code-push";
 import {BoxShadow} from 'react-native-shadow'
 const {height,width} =Dimensions.get('screen')
 
